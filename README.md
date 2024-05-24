@@ -1,16 +1,13 @@
-## Hi there 👋
+Bem Vindo ao meu perfil 💜
 
-<!--
-**MCDSSJC/MCDSSJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Millena Silva
 
-Here are some ideas to get you started:
+Sou aluna da escola E.E PEI JOÃO CLÍMACO DE CAMARGO PIRES
+utilizamos como ferramentas nas aulas de róbotica os cursos do [Alura].(https://wwww.alura.com.br)
+estamos desenvolvendo linguagem JAVASCRIPT para as aulas no Alura
+Utilizo esse espaço para organização e compartilhamento dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VOCÊ PODE ENTRAR EM CONTATO COMIGO:
+
+📬 00001108017824sp@al.educacao.sp.gov.br
+![.]((https://media1.tenor.com/m/7r8VMRiPdNcAAAAC/mari-thvlepathy-bts-meme.gif)
