@@ -10,4 +10,5 @@ Utilizo esse espaço para organização e compartilhamento dos meus projetos
 VOCÊ PODE ENTRAR EM CONTATO COMIGO:
 
 📬 00001108017824sp@al.educacao.sp.gov.br
-![.]((https://media1.tenor.com/m/7r8VMRiPdNcAAAAC/mari-thvlepathy-bts-meme.gif)
+
+![](https://media1.tenor.com/m/7r8VMRiPdNcAAAAC/mari-thvlepathy-bts-meme.gif)
